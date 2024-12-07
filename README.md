@@ -3,7 +3,7 @@
 # Hybrid Image Creation in Google Colab
 
 ## Overview
-This project demonstrates how to create *hybrid images* by combining the low-frequency components of one image with the high-frequency components of another. The result is a hybrid image that changes appearance based on the viewing distance:
+This Assignment demonstrates how to create *hybrid images* by combining the low-frequency components of one image with the high-frequency components of another. The result is a hybrid image that changes appearance based on the viewing distance:
 - From a distance: The low-frequency image is visible.
 - Up close: The high-frequency image dominates.
 
@@ -41,10 +41,11 @@ This project uses Python and OpenCV, and it is designed to run in *Google Colab*
 ### 4. *Output*
 - The hybrid image is displayed alongside the original input images.
 - It can also be saved as a file (hybrid_image.jpg).
-- ![Uploading hybrid image.png…]()
 
 
----
+<img width="730" alt="hybrid image" src="https://github.com/user-attachments/assets/2a8d5ca9-d903-4a26-b95f-dac814e3ed12">
+
+
 
 ## Google Colab Setup
 Follow these steps to run the code in Google Colab:
