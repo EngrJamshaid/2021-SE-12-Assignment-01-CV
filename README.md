@@ -63,9 +63,9 @@ Follow these steps to run the code in Google Colab:
 - **create_hybrid_image(image1, image2)**: Processes the two uploaded images to create a hybrid image.
 
 ### Key Libraries:
-- **OpenCV (cv2): Handles image processing tasks like blurring, resizing, and combining images.
-- **NumPy (np): Assists with matrix operations.
-- **Matplotlib (plt): Visualizes images directly in the notebook.
+- **OpenCV (cv2)**: Handles image processing tasks like blurring, resizing, and combining images.
+- **NumPy (np)**: Assists with matrix operations.
+- **Matplotlib** (plt): Visualizes images directly in the notebook.
 
 ---
 
@@ -74,7 +74,7 @@ Follow these steps to run the code in Google Colab:
    - Upload an image of a cat (low-frequency).
    - Upload an image of a dog's face (high-frequency).
    
-2. *Output Hybrid Image*:
+2. **Output Hybrid Image**:
    - The resulting image will look like a smoothed-out cat from far away and a detailed dog face up close.
 
 ---
