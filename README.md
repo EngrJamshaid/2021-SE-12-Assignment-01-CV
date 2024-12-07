@@ -22,8 +22,12 @@ This project uses Python and OpenCV, and it is designed to run in *Google Colab*
 ## How It Works
 ### 1. *Image Preparation*
 - The user uploads two images:
-  - *Image 1*: Treated as the low-frequency component.
-  - *Image 2*: Treated as the high-frequency component.
+  - Image 1*: Treated as the low-frequency component.
+  - ![download](https://github.com/user-attachments/assets/3b676c2e-f455-4293-9eef-c9c684183d1e)
+
+  - Image 2*: Treated as the high-frequency component.
+  - ![download (1)](https://github.com/user-attachments/assets/f1822c48-1127-48ee-b42d-ad7907116434)
+
   
 ### 2. *Frequency Processing*
 - *Low-Frequency Extraction*: 
@@ -37,6 +41,8 @@ This project uses Python and OpenCV, and it is designed to run in *Google Colab*
 ### 4. *Output*
 - The hybrid image is displayed alongside the original input images.
 - It can also be saved as a file (hybrid_image.jpg).
+- ![Uploading hybrid image.png…]()
+
 
 ---
 
